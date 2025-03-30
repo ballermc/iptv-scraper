@@ -108,13 +108,13 @@ https://tvpass.org/live/BBCAmericaEast/hd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/BBCAmericaEast/sd/
 
-#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="[TVPass] BBC News Channel HD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",[TVPass] BBC News - North America HD HD
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="[TVPass] BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",[TVPass] BBC News - North America HD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd/
 
-#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="[TVPass] BBC News Channel HD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",[TVPass] BBC News - North America HD SD
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="[TVPass] BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",[TVPass] BBC News - North America HD SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -168,7 +168,7 @@ https://tvpass.org/live/BravoEast/hd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/BravoEast/sd/
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="[TVPass] Big Ten Network HD HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="SPORTS",[TVPass] Big Ten Network HD
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="[TVPass] Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="SPORTS",[TVPass] Big Ten Network HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -378,7 +378,7 @@ https://tvpass.org/live/chicago-sports-network/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/CrimePlusInvestigation/hd/
 
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="[TVPass] Crime + Investigation HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="DOCUMENTARY",[TVPass] Crime + Investigation USA HD SD
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-name="[TVPass] Crime + Investigation HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="DOCUMENTARY",[TVPass] Crime + Investigation USA HD SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -990,7 +990,7 @@ https://tvpass.org/live/HBO2East/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/HBOComedyEast/hd/
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="[TVPass] HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIES",[TVPass] HBO Comedy HD - East SD
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="[TVPass] HBO Comedy HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="MOVIES",[TVPass] HBO Comedy HD - East SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1026,7 +1026,7 @@ https://tvpass.org/live/HBOSignatureEast/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/HBOZoneEast/hd/
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="[TVPass] HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES",[TVPass] HBO Zone HD - East SD
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="[TVPass] HBO Zone HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES",[TVPass] HBO Zone HD - East SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1074,7 +1074,7 @@ https://tvpass.org/live/HallmarkChannelEast/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/HallmarkDrama/hd/
 
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="[TVPass] Hallmark Family HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="MOVIES",[TVPass] Hallmark Family HD SD
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="[TVPass] Hallmark Family HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="MOVIES",[TVPass] Hallmark Family HD SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1086,7 +1086,7 @@ https://tvpass.org/live/HallmarkDrama/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd/
 
-#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="[TVPass] Hallmark Mystery HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="MOVIES",[TVPass] Hallmark Mystery - HD SD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="[TVPass] Hallmark Mystery HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="MOVIES",[TVPass] Hallmark Mystery - HD SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1314,7 +1314,7 @@ https://tvpass.org/live/monumental-sports-network/sd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/Motortrend/hd/
 
-#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-name="[TVPass] Motor Trend HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="SPORTS",[TVPass] Motor Trend HD SD
+#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-name="[TVPass] Motor Trend HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="SPORTS",[TVPass] Motor Trend HD SD HD
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1356,13 +1356,13 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd/
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="[TVPass] NBC HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="NEWS",[TVPass] NBC (WNBC) New York, NY HD
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="[TVPass] NBC HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="NEWS",[TVPass] NBC (WNBC) New York
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/WNBCDT1/hd/
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="[TVPass] NBC SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="NEWS",[TVPass] NBC (WNBC) New York, NY SD
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="[TVPass] NBC SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="NEWS",[TVPass] NBC (WNBC) New York
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1572,13 +1572,13 @@ https://tvpass.org/live/OxygenEast/hd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/OxygenEast/sd/
 
-#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="[TVPass] PBS (WNET) New York, NY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="ENTERTAINMENT",[TVPass] PBS (WNET) New York, NY HD
+#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="[TVPass] PBS (WNET) New York, NY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="ENTERTAINMENT",[TVPass] PBS (WNET) New York
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/WNET/hd/
 
-#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="[TVPass] PBS (WNET) New York, NY SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="ENTERTAINMENT",[TVPass] PBS (WNET) New York, NY SD
+#EXTINF:-1 tvg-id="PBS.-.Network.HD.-.Eastern.us" tvg-name="[TVPass] PBS (WNET) New York, NY SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png" group-title="ENTERTAINMENT",[TVPass] PBS (WNET) New York
 #EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-origin=https://tvpass.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
